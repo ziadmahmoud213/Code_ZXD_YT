@@ -1,0 +1,42 @@
+.navbar-nav{
+    margin-left: auto;
+font-size: larger;
+}
+.navbar{
+    background-color: rgb(255, 255, 255);
+
+
+width: 100%;
+}
+.navbar a:hover{
+    background-color:gray !important;
+}
+ 
+*{box-sizing:border-box;}
+
+.all{
+    margin: 0;
+position: relative;
+}
+.all img{
+    vertical-align: middle;
+}
+.all .cont{
+position: absolute;
+bottom: 50%;
+background: rgba(255, 255, 255, );
+color: aqua;
+width: 100%;
+padding: 20px;
+text-align: center;
+}
+
+
+.Projects img{
+    width: 99%;
+    margin: .5%;
+}
+.row{
+    padding: 0%!important;
+margin: 0% !important;
+}
