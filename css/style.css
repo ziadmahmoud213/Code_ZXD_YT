@@ -40,7 +40,36 @@ text-align: center;
     padding: 0%!important;
 margin: 0% !important;
 }
-.gg{
-   border: 1px solid royalblue;
-background: darkgrey;
+.me{
+    text-align: center;
+font-size: larger;
+color: rgb(0, 204, 41);
+}
+.texrr{
+text-align: center;
+margin-top: 3%;
+font-size: x-large;
+
+}
+.ffff{
+text-align: center;
+
+}
+.d-flex{
+    width: 50%;
+height: 3%;
+}
+.gg1{
+    color: aqua;
+    background-color: rgb(0, 0, 0);
+font-size: medium;
+padding: .5%;
+margin-bottom: auto;
+}
+.f{
+    margin: auto;
+text-align: center;
+background-color: black;
+color: teal;
+padding: 1.5%;
 }
