@@ -1,3 +1,7 @@
+.card3{display: block;margin-right: 0;flex: 0 0 calc(100%/2); }
+
+
+
 .navbar-nav{
     margin-left: auto;
 font-size: larger;
@@ -5,9 +9,11 @@ font-size: larger;
 .navbar{
     background-color: rgb(255, 255, 255);
 
-
 width: 100%;
+
+
 }
+
 .navbar a:hover{
     background-color:gray !important;
 }
@@ -67,9 +73,13 @@ padding: .5%;
 margin-bottom: auto;
 }
 .f{
-    margin: auto;
+text-decoration:none ;
+font-size: 50px;
+position: relative;
+cursor: pointer;
 text-align: center;
-background-color: black;
-color: teal;
-padding: 1.5%;
+}
+.ff{
+    background-color: black;
+text-align: center;
 }
